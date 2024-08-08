@@ -1,0 +1,181 @@
+{
+    "navbar" : {
+        "home" : "Home",
+        "jobs" : "Jobs",
+        "media" : "Media",
+        "about-us" : "About Us",
+        "contact-us" : "Contact Us"
+    },
+    "footer" : {
+        "notification" : "Get job notifications",
+        "description" : "The lastest job news, articles, sent to your inbox weekly.",
+        "email" : "Your email address...",
+        "website" : {
+            "name" : "website",
+            "jobs" : "Jobs",
+            "media" : "Media"
+        },
+        "information" : {
+            "name" : "information",
+            "about-us" : "About Us",
+            "privacy-policy" : "Privacy Policy"
+        },
+        "contact-us" : {
+            "name" : "contact us",
+            "phone" : "Phone Number",
+            "email" : "Email"
+        }
+    },
+    "translate" : {
+        "english" : "English (EN)",
+        "khmer" : "Khmer (KH)"
+    },
+    "auth" : {
+        "login": "Log in",
+        "register" : "Sign up"
+    },
+    "search": {
+      "placeholder": "Search for position",
+      "selectCategory": "Select a category",
+      "selectSkill": "Select a skill",
+      "loadingSkills": "Loading skills...",
+      "searchButton": "Search",
+      "fetchSkillsError": "Failed to fetch skills.",
+      "searchError": "Failed to perform search."
+    },
+    "registrationForm": {
+    "title": "Register",
+    "validation": {
+      "username": "Username is required",
+      "min": "Must be at least 3 characters",
+      "email": "Email is required",
+      "invalid": "Invalid email address",
+      "password": "Password must contain at least 8 characters, one uppercase, one lowercase, one number and one special case character",
+      "not-match": "Passwords must match",
+      "confirmPassword": "Confirm Password is required"
+    },
+    "labels": {
+      "username": "Username",
+      "email": "Email",
+      "password": "Password",
+      "confirmPassword": "Confirm Password",
+      "haveAccount": "Already have an account?",
+      "login": "Login"
+    },
+    "placeholders": {
+      "username": "Enter your username",
+      "email": "Enter your email",
+      "password": "Enter your password",
+      "confirmPassword": "Confirm your password"
+    },
+    "registering": "Registering...",
+    "submit": "Register",
+    "success": "Registration successful! Please check your email for verification.",
+    "error": "Your account already exists. Failed to create a new account."
+  },
+  "verification": {
+    "title": "Email Verification",
+    "desc": "Please enter the 6-digit verification code sent to your email.",
+    "otp_code": {
+      "success": "Verification successful! Redirecting you..."
+    },
+    "verification_failed": "Verification failed. Please try again.",
+    "code_resend": "Verification code has been resent. Please check your email.",
+    "unreceived": "Didn't receive the code?",
+    "resend": "Resend Code",
+    "verifying": "Verifying...",
+    "verify": "Verify"
+  },
+  "validation": {
+    "digit_required": "Must be 1 digit",
+    "otp_length": "OTP must be 6 digits"
+  },
+    "loginForm": {
+        "title": "Login",
+        "validation": {
+        "invalid": "Invalid email address",
+        "email": "Email is required",
+        "password": "Password is required"
+        },
+        "labels": {
+        "email": "Email",
+        "password": "Password",
+        "forgotPassword": "Forgot Password?",
+        "login": "Login",
+        "logining": "Logging in...",
+        "unauthorized": "Don't have an account?",
+        "signUp": "Sign Up"
+        },
+        "success": "Login successful! Welcome, {{email}}!",
+        "error": "Invalid email or password"
+    },
+    "resetPasswordForm": {
+    "title": "Reset Password",
+    "labels": {
+      "email": "Email",
+      "rememberPassword": "Remember your password?",
+      "login": "Login"
+    },
+    "placeholders": {
+      "email": "Enter your email"
+    },
+    "validation": {
+      "email": "Invalid email address",
+      "emailRequired": "Email is required"
+    },
+    "sending": "Sending...",
+    "submit": "Submit",
+    "successMessage": "Password reset email sent successfully!",
+    "errorMessage": "An error occurred while sending the password reset email. Please try again."
+  },
+  "resetForm": {
+    "title": "Reset Your Password",
+    "labels": {
+      "otp": "OTP Code",
+      "password": "New Password",
+      "confirmPassword": "Confirm New Password",
+      "resetting": "Resetting...",
+      "reset": "Reset Password"
+    },
+    "validation": {
+      "otp": "OTP code is required",
+      "password": "New password is required",
+      "passwordMin": "Password must be at least 8 characters",
+      "passwordStrong": "Password must contain at least one uppercase letter, one lowercase letter, one number, and one special character",
+      "confirmPassword": "Confirm password is required",
+      "passwordMatch": "Passwords must match"
+    },
+    "successMessage": "Password reset successful! Redirecting to your profile...",
+    "errorMessage": "An error occurred during password reset. Please try again."
+  },
+  "HeroSection": {
+    "discover": "Discover more than",
+    "Jobs": "5000+ Jobs",
+    "description": "Great platform for the job seeker that searching for new career heights and passionate about startups.",
+    "button": "Explore more",
+    "title" : "through JobQuick"
+  },
+  "List-Jobs": {
+    "List": "Jobs"
+  },
+  "Advertising": {
+    "advertising": "Advertising"
+  },
+  "About-us": {
+    "Who": "Who We Are ? ",
+    "About": "About Us",
+    "About-description": "Job Quick, created in 2024 by undergraduate students at the Center for Advanced Science and Technology Development, is an online platform that empowers users to effortlessly search for, apply to, and track job opportunities.",
+    "Goals": "Our Goals",
+    "detail": {
+      "Who": "We are the second generation of Basic Scholarship students from the Center for Advanced Science and Technology Development, having successfully completed a four-month course.",
+      "Goals": "Our mission is to provide online job seekers with a user-friendly and secure platform that effectively connects them with employers.",
+      "Perspective": "In our perspective, our goal is to develop a website that stands out as creative, highly customizable, and exceptionally user-friendly."
+    },
+    "Perspective": "Our Perspective",
+    "Instructor": "Instructors",
+    "Member": "Team Members"
+  },
+  "testing": {
+    "test": "Hello"
+  }
+}
