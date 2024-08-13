@@ -18,7 +18,7 @@ function SocialMediaComponent({ contact_info }) {
   const [contacts, setContacts] = useState(contact_info || {});
 
   useEffect(() => {
-    setContacts(contact_info);
+    setContacts(contact_info || {});
   }, [contact_info]);
 
   const handleEdit = (platform) => {
